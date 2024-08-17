@@ -1,0 +1,22 @@
+Package: me.ikghd.ikset
+Version: 3.3
+Architecture: iphoneos-arm64
+Maintainer: iKarwan <ikghd3@gmail.com>
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.yourepo.ikghd.ikset, pro.ikghd.ikset, pro.ikghd.iksettings
+Replaces: com.yourepo.ikghd.ikset, pro.ikghd.ikset, pro.ikghd.iksettings
+Filename: ./debs/iksettings 设置美化汉化版.deb
+Size: 48944
+MD5sum: 9d87cdb73275e01080278275df83252b
+SHA1: 05265b196f5514e5ce07945e32f22e5fb4abf80e
+SHA256: 72247f272424b481b369021ebd6fb8838506b6a0bb4dcc14b0b371c206c844f4
+Section: Tweaks
+Description: 美化设置，隐藏设置某些选项等各项功能（汉化：lans233）
+Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios16.8
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ikset
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ikset.png
+Name: iKSettings设置美化
+Sileodepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ikset.json
+
