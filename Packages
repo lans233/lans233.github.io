@@ -12,7 +12,7 @@ SHA256: 4dc3bb63e29243e10f69c43bb9554e15cf21f08f1614897b68dadba4a0062f00
 Section: Tweaks
 Description: 应用切换器美化，可以自定义应用卡片，以及底部显示已连接/已断开的设备的蓝牙和电池信息（汉化：lans233）
 Author: atar13, SingleKeycap
-Depiction: https://atar13.github.io/repo/com.atar13.vaon
+Depiction: 应用切换器美化，可以自定义应用卡片，以及底部显示已连接/已断开的设备的蓝牙和电池信息（汉化：lans233）
 Icon: https://atar13.github.io/assets/package_icons/vaonIcon.png
 Name: Vaon美化应用切换器
 
