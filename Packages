@@ -1,4 +1,4 @@
-Package: com.atar13.vaon
+Package: com.atar13.vaon233
 Version: 1.2.0
 Architecture: iphoneos-arm64
 Maintainer: atar13 <atar13dev@gmail.com>
@@ -16,7 +16,7 @@ Depiction: https://atar13.github.io/repo/com.atar13.vaon
 Icon: https://atar13.github.io/assets/package_icons/vaonIcon.png
 Name: Vaon美化应用切换器
 
-Package: com.dcproducts.pagedotsbegone
+Package: com.dcproducts.pagedotsbegone233
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: Derek Calabro
@@ -35,7 +35,7 @@ Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/
 Name: PageDotsBeGone自定义页面点
 Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/depiction.json
 
-Package: com.foxfort.deluminator
+Package: com.foxfort.deluminator233
 Version: 4.2.4
 Architecture: iphoneos-arm64
 Maintainer: FoxfortMobile
@@ -52,7 +52,7 @@ Author: FoxfortMobile
 Icon: file:///Library/PreferenceBundles/deluminatorsettings.bundle/icon@3x.png
 Name: Deluminator网页深色模式
 
-Package: com.ginsu.dualclock2
+Package: com.ginsu.dualclock2233
 Version: 2.0.2
 Architecture: iphoneos-arm64
 Maintainer: Ginsu
@@ -71,7 +71,7 @@ Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.dualclock2/icon.png
 Name: DualClock 2 (Rootless)
 Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.dualclock2.json
 
-Package: com.ps.apppad
+Package: com.ps.apppad233
 Version: 1.1.2
 Architecture: iphoneos-arm64
 Maintainer: PoomSmart
@@ -90,7 +90,7 @@ Depiction: https://poomsmart.github.io/repo/depictions/apppad.html
 Name: AppPad
 Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/apppad.json
 
-Package: com.sugiuta.rena
+Package: com.sugiuta.rena233
 Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: sugiuta
@@ -107,7 +107,7 @@ Author: sugiuta
 Icon: https://sugiuta.github.io/repo/descriptions/com.sugiuta.rena/Rena.png
 Name: Rena锁屏应用美化
 
-Package: com.yourepo.b4db1r3r3p0.oleddarkmode
+Package: com.yourepo.b4db1r3r3p0.oleddarkmode233
 Version: 0.5.1-11
 Architecture: iphoneos-arm64
 Maintainer: @fr0st & b4db1r3 <nfive060@gmail.com>
@@ -122,7 +122,7 @@ Description: Make dark mode actual dark.
 Author: @fr0st & b4db1r3 <nfive060@gmail.com>
 Name: OLED Dark Mode
 
-Package: com.yourepo.cydiageek.batteryswipeup
+Package: com.yourepo.cydiageek.batteryswipeup233
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: CydiaGeek <lucaluca86@aol.com>
@@ -137,7 +137,7 @@ Description: Battery Percent on Swipe Up to Open!
 Author: CydiaGeek <lucaluca86@aol.com>
 Name: BatterySwipeUp
 
-Package: com.yourepo.cydiageek.roundprefs
+Package: com.yourepo.cydiageek.roundprefs233
 Version: 1.0.9
 Architecture: iphoneos-arm64
 Maintainer: CydiaGeek <lucaluca86@aol.com>
@@ -152,7 +152,7 @@ Description: Make Round the Settings Tables!
 Author: CydiaGeek <lucaluca86@aol.com>
 Name: roundPrefs
 
-Package: me.ikghd.ikset
+Package: me.ikghd.ikset233
 Version: 3.3
 Architecture: iphoneos-arm64
 Maintainer: iKarwan <ikghd3@gmail.com>
@@ -174,7 +174,7 @@ Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ikset.png
 Name: iKSettings设置美化
 Sileodepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ikset.json
 
-Package: me.ikghd.pmp
+Package: me.ikghd.pmp233
 Version: 1.9
 Architecture: iphoneos-arm64
 Maintainer: iKarwan <ikghd3@gmail.com>
@@ -196,7 +196,7 @@ Icon: https://repo.ikghd.me/assets/icons/me.ikghd.pmp.png
 Name: PMP
 Sileodepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.pmp.json
 
-Package: me.luki.aestearevived
+Package: me.luki.aestearevived233
 Version: 0.9.2
 Architecture: iphoneos-arm64
 Maintainer: Luki
@@ -215,7 +215,7 @@ Icon: https://raw.githubusercontent.com/Luki120/AesteaRevived/main/Prefs/Resourc
 Name: Aestea Revived控制中心美化
 Sileodepiction: https://luki120.github.io/depictions/native/me.luki.aestearevived/depiction.json
 
-Package: me.luki.arizona
+Package: me.luki.arizona233
 Version: 0.9.2
 Architecture: iphoneos-arm64
 Maintainer: Luki
@@ -234,7 +234,7 @@ Icon: https://raw.githubusercontent.com/Luki120/SmallTweaks/main/SpringBoard/Ari
 Name: Arizona锁屏美化
 Sileodepiction: https://luki120.github.io/depictions/native/me.luki.arizona/depiction.json
 
-Package: me.luki.marie
+Package: me.luki.marie233
 Version: 1.0.6
 Architecture: iphoneos-arm64
 Maintainer: Luki
@@ -253,7 +253,7 @@ Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/
 Name: Marie设置背景图像
 Sileodepiction: https://luki120.github.io/depictions/native/me.luki.marie/depiction.json
 
-Package: me.luki.stealthcc
+Package: me.luki.stealthcc233
 Version: 0.9.0
 Architecture: iphoneos-arm64
 Maintainer: Luki
@@ -272,7 +272,7 @@ Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/
 Name: StealthCC自定义控制中心模块背景模糊
 Sileodepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
 
-Package: net.p0358.disintegratelock
+Package: net.p0358.disintegratelock233
 Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: p0358
@@ -288,7 +288,7 @@ Description: 一个牛逼的息屏动画特效！（汉化：lans233）
 Author: p0358
 Name: DisintegrateLock 息屏特效
 
-Package: xyz.cypwn.filzascriptdev
+Package: xyz.cypwn.filzascriptdev233
 Version: 2.0
 Architecture: all
 Maintainer: CyPwn
@@ -306,7 +306,7 @@ Icon: https://repo.cypwn.xyz/assets/repo/Featured/filzascripts.png
 Name: Filza Scripts
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1364
 
-Package: xyz.skitty.lightsout
+Package: xyz.skitty.lightsout233
 Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: Skitty
