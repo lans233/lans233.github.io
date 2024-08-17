@@ -1,0 +1,327 @@
+Package: com.atar13.vaon
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: atar13 <atar13dev@gmail.com>
+Installed-Size: 572
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis (>= 1.1)
+Filename: ./debs/Vaon美化应用切换器汉化版.deb
+Size: 111644
+MD5sum: db7715e7b393384e6231fa963d0d0688
+SHA1: 86d4e2f10661618bac16cda32e3bb5fc75d9a9dc
+SHA256: 4dc3bb63e29243e10f69c43bb9554e15cf21f08f1614897b68dadba4a0062f00
+Section: Tweaks
+Description: 应用切换器美化，可以自定义应用卡片，以及底部显示已连接/已断开的设备的蓝牙和电池信息（汉化：lans233）
+Author: atar13, SingleKeycap
+Depiction: https://atar13.github.io/repo/com.atar13.vaon
+Icon: https://atar13.github.io/assets/package_icons/vaonIcon.png
+Name: Vaon美化应用切换器
+
+Package: com.dcproducts.pagedotsbegone
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Derek Calabro
+Installed-Size: 856
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.2.1), preferenceloader (>= 2.2.6)
+Filename: ./debs/pagedotsbegone自定义美化页面点汉化版.deb
+Size: 152020
+MD5sum: 05bc8847452090e981c5265095b2d296
+SHA1: fdfaa8e3e6e787964b093406f96da4159de09459
+SHA256: 7cb063141db515b357c48c652d4ea98804e0ce3ea74c61ffa95e1981e0f417eb
+Section: Tweaks
+Description: 不仅隐藏页面点，还能自定义页面点的颜色等个性化设置（汉化：lans233）
+Author: Derek Calabro
+Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.pagedotsbegone
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/icon.png
+Name: PageDotsBeGone自定义页面点
+Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/depiction.json
+
+Package: com.foxfort.deluminator
+Version: 4.2.4
+Architecture: iphoneos-arm64
+Maintainer: FoxfortMobile
+Installed-Size: 1536
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader, com.foxfort.foxforttools (>= 1.4.12), firmware (>= 13.1)
+Filename: ./debs/Deluminator网页深色模式汉化版.deb
+Size: 382904
+MD5sum: c2b50724cc09224f3ab1c1fe93b00a26
+SHA1: 369df6661cb247a0dc45529e859ca48f6bc853cb
+SHA256: c9c28b92f6fc48e8ba3d076f3b75d253687fdcbc770b2ddf8d6eff1042cb0843
+Section: Tweaks
+Description: 给网页添加深色模式，可设置网址黑名单以及深色模式风格（汉化：lans233）
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/deluminatorsettings.bundle/icon@3x.png
+Name: Deluminator网页深色模式
+
+Package: com.ginsu.dualclock2
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: Ginsu
+Installed-Size: 3832
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), preferenceloader, com.ginsu.gscore, com.ginsu.comet
+Filename: ./debs/dualclock锁屏两个时间.deb
+Size: 397112
+MD5sum: 69b1a388b00ea9ce2f2bb6a13d915a94
+SHA1: 8208f0bac93625b3f22ac95ec6e243f98b0a3586
+SHA256: 95b195f2f106e0746dd7870354dfe05c4c23108b45e9f67ec5a780ad443f83ae
+Section: Tweaks
+Description: Two time zones on the Lock Screen!
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.dualclock2
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.dualclock2/icon.png
+Name: DualClock 2 (Rootless)
+Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.dualclock2.json
+
+Package: com.ps.apppad
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 172
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4), firmware (>= 9.0)
+Conflicts: com.yourepo.isaact1012.requirefullarm64e, com.matrix.requirefull
+Filename: ./debs/apppad平板任意应用强制全屏.deb
+Size: 4596
+MD5sum: 79404576a8e08c155d21097917254818
+SHA1: f83911c67b9bb2aa89c0ebe3ec7191fa685a9729
+SHA256: 7d1c87bf1e47a4a5f00aefadbf31973535b862a07ab10cdfe0d434883ca768ad
+Section: Tweaks
+Description: Full screen, Split and Slideover for every app on iPad.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/apppad.html
+Name: AppPad
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/apppad.json
+
+Package: com.sugiuta.rena
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: sugiuta
+Installed-Size: 416
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, ws.hbang.common
+Filename: ./debs/（仅支持 15） rena 锁屏美化显示应用汉化版.deb
+Size: 61936
+MD5sum: 171f3fe600fe8ba193f446f936bac149
+SHA1: c3b0848fb18d7196c9cfedba3fe9e39e39a1fd4a
+SHA256: 24b38a5c53a29b1dbfeb8475bc6498c9e6478c4fac03b5a502718b216b0e1921
+Section: Tweaks
+Description: 在 ios15系统的锁屏中，显示您最喜爱的应用程序（汉化：lans233）
+Author: sugiuta
+Icon: https://sugiuta.github.io/repo/descriptions/com.sugiuta.rena/Rena.png
+Name: Rena锁屏应用美化
+
+Package: com.yourepo.b4db1r3r3p0.oleddarkmode
+Version: 0.5.1-11
+Architecture: iphoneos-arm64
+Maintainer: @fr0st & b4db1r3 <nfive060@gmail.com>
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/OLED Dark Mode 更好的深色模式.deb
+Size: 9400
+MD5sum: 59cd7a65250ba394e4be25d5287aa208
+SHA1: fa0e9286099ead04362df56adee441456f000cca
+SHA256: 1bcddc2535493d4cda5f17c5cbce6773c86856adf7cd8eeedca0a97f322cd93e
+Section: Tweaks
+Description: Make dark mode actual dark.
+Author: @fr0st & b4db1r3 <nfive060@gmail.com>
+Name: OLED Dark Mode
+
+Package: com.yourepo.cydiageek.batteryswipeup
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: CydiaGeek <lucaluca86@aol.com>
+Depends: mobilesubstrate
+Filename: ./debs/BatterySwipeUp锁屏界面下方显示电量.deb
+Size: 6384
+MD5sum: 8de66c2729283b640738dc4f51df5b1e
+SHA1: 93db58aef4c6ca1085415a52b89fef841c087bdb
+SHA256: f198d7c3843f6a6dbe506508396102636dc791d09b08261d6330113b070fa735
+Section: Tweaks
+Description: Battery Percent on Swipe Up to Open!
+Author: CydiaGeek <lucaluca86@aol.com>
+Name: BatterySwipeUp
+
+Package: com.yourepo.cydiageek.roundprefs
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: CydiaGeek <lucaluca86@aol.com>
+Depends: mobilesubstrate
+Filename: ./debs/roundPrefs自定义设置圆角.deb
+Size: 57172
+MD5sum: 1f7ca2b9023b3c22311aee1c131d6cb8
+SHA1: b1fe8147d5260efb93ac127f0cc0eeb3411383a5
+SHA256: fe916f50718900eb6e88faf111f2a3768d44170142f3d8c7d2efb29be16b0bf7
+Section: Tweaks
+Description: Make Round the Settings Tables!
+Author: CydiaGeek <lucaluca86@aol.com>
+Name: roundPrefs
+
+Package: me.ikghd.ikset
+Version: 3.3
+Architecture: iphoneos-arm64
+Maintainer: iKarwan <ikghd3@gmail.com>
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.yourepo.ikghd.ikset, pro.ikghd.ikset, pro.ikghd.iksettings
+Replaces: com.yourepo.ikghd.ikset, pro.ikghd.ikset, pro.ikghd.iksettings
+Filename: ./debs/iksettings 设置美化汉化版.deb
+Size: 48944
+MD5sum: 9d87cdb73275e01080278275df83252b
+SHA1: 05265b196f5514e5ce07945e32f22e5fb4abf80e
+SHA256: 72247f272424b481b369021ebd6fb8838506b6a0bb4dcc14b0b371c206c844f4
+Section: Tweaks
+Description: 美化设置，隐藏设置某些选项等各项功能（汉化：lans233）
+Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios16.8
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ikset
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ikset.png
+Name: iKSettings设置美化
+Sileodepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ikset.json
+
+Package: me.ikghd.pmp
+Version: 1.9
+Architecture: iphoneos-arm64
+Maintainer: iKarwan <ikghd3@gmail.com>
+Installed-Size: 792
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Conflicts: pro.ikghd.pmp
+Replaces: pro.ikghd.pmp
+Filename: ./debs/PMP隐私保护隐藏照片等.deb
+Size: 54488
+MD5sum: 1f6925c09dc7935d9c4dd0933ea57236
+SHA1: 01f14bd832b8cf6c3b155992a5babd6d35223139
+SHA256: 2f6574d1ae3d536a37b02abb5be5bafe4e8b1b07ad2c1d604a34e6f394195020
+Section: Tweaks
+Description: PMP Protect My Photos!
+Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios17.8
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.pmp
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.pmp.png
+Name: PMP
+Sileodepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.pmp.json
+
+Package: me.luki.aestearevived
+Version: 0.9.2
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 1628
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13), com.mrgcgamer.libgcuniversal
+Filename: ./debs/Aestea Revived控制中心美化汉化版.deb
+Size: 684576
+MD5sum: 5329f6c7f792c5d3641c5c82aea28358
+SHA1: 49b88f39daf37e30fd0621c8b9d794231c825727
+SHA256: 1eeed5638f8492c29190e1c128d7f2c576640da80419b7f3c1f9d5c943696a00
+Section: Tweaks
+Description: 给您的控制中心图案带来色彩！（汉化：lans233）
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.aestearevived
+Icon: https://raw.githubusercontent.com/Luki120/AesteaRevived/main/Prefs/Resources/Assets/AesteaIcon.png
+Name: Aestea Revived控制中心美化
+Sileodepiction: https://luki120.github.io/depictions/native/me.luki.aestearevived/depiction.json
+
+Package: me.luki.arizona
+Version: 0.9.2
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 796
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/arizona 锁屏美化移动时间汉化版.deb
+Size: 427884
+MD5sum: 6fb5007c07d09568c454839b45e15169
+SHA1: 273b10903c5fa5981a70851c50ae765313954a9f
+SHA256: 92377f4f35a97c03fd0c177c80bfe0f07db4281b7909f619b26327a243a708cb
+Section: Tweaks
+Description: 移动锁屏界面的日期，时钟和锁定图标（翻译：lans233）
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.arizona
+Icon: https://raw.githubusercontent.com/Luki120/SmallTweaks/main/SpringBoard/Arizona/ArizonaPrefs/Resources/Assets/ArizonaHotIcon.png
+Name: Arizona锁屏美化
+Sileodepiction: https://luki120.github.io/depictions/native/me.luki.arizona/depiction.json
+
+Package: me.luki.marie
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 940
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/Marie设置背景图像汉化版.deb
+Size: 552612
+MD5sum: fb85c3547fa957d286c892574731ac84
+SHA1: 34d7f01c63fb76dc7c41c3bb7edc4f39e307b19e
+SHA256: 5e7074fbca2218c6e3d8622a5b44b1312ca6f9136d2d604156a29136f645dca3
+Section: Tweaks
+Description: 即时为拨号界面、密码页或分享页设置背景图像（汉化：lans233）
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.marie
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Tweaks/SpringBoard/Marie/MarieIcon.png
+Name: Marie设置背景图像
+Sileodepiction: https://luki120.github.io/depictions/native/me.luki.marie/depiction.json
+
+Package: me.luki.stealthcc
+Version: 0.9.0
+Architecture: iphoneos-arm64
+Maintainer: Luki
+Installed-Size: 364
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/StealthCC自定义控制中心背景模糊汉化版.deb
+Size: 21608
+MD5sum: c090e7a8fc061304100fe5746c301df7
+SHA1: e94df41fcb8bce119d21727aee606928a25f95de
+SHA256: 124d92fdcd94f26ec606a63f814c5e3559c90009bd8630eb622d846e13ed470c
+Section: Tweaks
+Description: 自定义控制中心背景的模糊程度，当模糊程度为零时会直接删掉背景，达到开着控制中心的时候还能操作别的地方的神奇操作（汉化：lans233）
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Misc/StealthCC.png
+Name: StealthCC自定义控制中心模块背景模糊
+Sileodepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
+
+Package: net.p0358.disintegratelock
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: p0358
+Installed-Size: 488
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.14)
+Filename: ./debs/（不支持 16） DisintegrateLock 息屏特效汉化版.deb
+Size: 67036
+MD5sum: 7cc2ad4816f78fdedb9debf84dbc8b7c
+SHA1: 5a6f432cb9368e60e235a10b5c6010d9727f8df5
+SHA256: 03339b92e1498f7281ffe5fbb3f069cbf770e88efaf98c1f4592f87a31169043
+Section: Tweaks
+Description: 一个牛逼的息屏动画特效！（汉化：lans233）
+Author: p0358
+Name: DisintegrateLock 息屏特效
+
+Package: xyz.cypwn.filzascriptdev
+Version: 2.0
+Architecture: all
+Maintainer: CyPwn
+Depends: dpkg, ldid, file, odcctools, plutil
+Filename: ./debs/filza 代码高亮.deb
+Size: 5576
+MD5sum: 2802f298b2948e119f9c2366333a7119
+SHA1: da38d653b62fd46b833192361dac5cbd38774cc6
+SHA256: c888808628173a8793bd3129ac214e1e8dbaadfe7e868f7a3a15cebac9e2833e
+Section: Utilities
+Description: Scripts to build rootful & rootless with Filza. Plus other handy Filza scripts. *Use regular Filza, NOT trollstore Filza*
+Author: CyPwn
+Depiction: https://repo.cypwn.xyz/depiction/1364
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/filzascripts.png
+Name: Filza Scripts
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1364
+
+Package: xyz.skitty.lightsout
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Skitty
+Installed-Size: 424
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/lightsout 感应切换深浅色模式汉化版.deb
+Size: 56268
+MD5sum: f5f67c98f03440801203a0537fe29557
+SHA1: 73183bc50bf94c6a4112eb8d685be012c53e31e0
+SHA256: 0f677649f4eacf50c908d451c76de8bc66ba779cea4e2274a5d87ac5adf0419c
+Section: Tweaks
+Description: 使用光线传感器切换深色模式/夜间模式！（汉化：lans233）
+Author: Skitty
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.lightsout/
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.lightsout.png
+Name: LightsOut感应切换深浅色模式
+Sileodepiction: https://skitty.xyz/repo/depictions/xyz.skitty.lightsout/sileo.json
+
