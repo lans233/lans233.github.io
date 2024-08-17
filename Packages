@@ -30,7 +30,7 @@ SHA256: 7cb063141db515b357c48c652d4ea98804e0ce3ea74c61ffa95e1981e0f417eb
 Section: Tweaks
 Description: 不仅隐藏页面点，还能自定义页面点的颜色等个性化设置（汉化：lans233）
 Author: Derek Calabro
-Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.pagedotsbegone
+Depiction: 不仅隐藏页面点，还能自定义页面点的颜色等个性化设置（汉化：lans233）
 Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/icon.png
 Name: PageDotsBeGone自定义页面点
 Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/depiction.json
@@ -64,11 +64,11 @@ MD5sum: 69b1a388b00ea9ce2f2bb6a13d915a94
 SHA1: 8208f0bac93625b3f22ac95ec6e243f98b0a3586
 SHA256: 95b195f2f106e0746dd7870354dfe05c4c23108b45e9f67ec5a780ad443f83ae
 Section: Tweaks
-Description: Two time zones on the Lock Screen!
+Description: 锁屏可以显示两个时间！
 Author: Ginsu
-Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.dualclock2
+Depiction: 锁屏可以显示两个时间！
 Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.dualclock2/icon.png
-Name: DualClock 2 (Rootless)
+Name: DualClock 2锁屏显示两个时间
 Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.dualclock2.json
 
 Package: com.ps.apppad233
@@ -84,10 +84,10 @@ MD5sum: 79404576a8e08c155d21097917254818
 SHA1: f83911c67b9bb2aa89c0ebe3ec7191fa685a9729
 SHA256: 7d1c87bf1e47a4a5f00aefadbf31973535b862a07ab10cdfe0d434883ca768ad
 Section: Tweaks
-Description: Full screen, Split and Slideover for every app on iPad.
+Description: 平板任意应用强制全屏/横竖屏
 Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/apppad.html
-Name: AppPad
+Depiction: 平板任意应用强制全屏/横竖屏
+Name: AppPad平板任意应用强制全屏/竖横屏
 Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/apppad.json
 
 Package: com.sugiuta.rena233
@@ -118,9 +118,9 @@ MD5sum: 59cd7a65250ba394e4be25d5287aa208
 SHA1: fa0e9286099ead04362df56adee441456f000cca
 SHA256: 1bcddc2535493d4cda5f17c5cbce6773c86856adf7cd8eeedca0a97f322cd93e
 Section: Tweaks
-Description: Make dark mode actual dark.
+Description: 让深色模式更“深色模式”
 Author: @fr0st & b4db1r3 <nfive060@gmail.com>
-Name: OLED Dark Mode
+Name: OLED Dark Mode更好的深色模式
 
 Package: com.yourepo.cydiageek.batteryswipeup233
 Version: 1.0.0
@@ -133,9 +133,9 @@ MD5sum: 8de66c2729283b640738dc4f51df5b1e
 SHA1: 93db58aef4c6ca1085415a52b89fef841c087bdb
 SHA256: f198d7c3843f6a6dbe506508396102636dc791d09b08261d6330113b070fa735
 Section: Tweaks
-Description: Battery Percent on Swipe Up to Open!
+Description: 锁屏界面下方显示电量
 Author: CydiaGeek <lucaluca86@aol.com>
-Name: BatterySwipeUp
+Name: batteryswipeup锁屏下方显示电量
 
 Package: com.yourepo.cydiageek.roundprefs233
 Version: 1.0.9
@@ -148,9 +148,9 @@ MD5sum: 1f7ca2b9023b3c22311aee1c131d6cb8
 SHA1: b1fe8147d5260efb93ac127f0cc0eeb3411383a5
 SHA256: fe916f50718900eb6e88faf111f2a3768d44170142f3d8c7d2efb29be16b0bf7
 Section: Tweaks
-Description: Make Round the Settings Tables!
+Description: 自定义设置选项的圆角！
 Author: CydiaGeek <lucaluca86@aol.com>
-Name: roundPrefs
+Name: roundPrefs自定义设置圆角
 
 Package: me.ikghd.ikset233
 Version: 3.3
@@ -169,7 +169,7 @@ Section: Tweaks
 Description: 美化设置，隐藏设置某些选项等各项功能（汉化：lans233）
 Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios16.8
 Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ikset
+Depiction: 美化设置，隐藏设置选项等各项功能（汉化：lans233）
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ikset.png
 Name: iKSettings设置美化
 Sileodepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ikset.json
@@ -188,12 +188,12 @@ MD5sum: 1f6925c09dc7935d9c4dd0933ea57236
 SHA1: 01f14bd832b8cf6c3b155992a5babd6d35223139
 SHA256: 2f6574d1ae3d536a37b02abb5be5bafe4e8b1b07ad2c1d604a34e6f394195020
 Section: Tweaks
-Description: PMP Protect My Photos!
+Description: PMP保护我的照片！可以一键隐藏所有照片等功能
 Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios17.8
 Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.pmp
+Depiction: 一键隐藏所有照片等功能
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.pmp.png
-Name: PMP
+Name: PMP照片隐藏隐私保护
 Sileodepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.pmp.json
 
 Package: me.luki.aestearevived233
@@ -210,7 +210,7 @@ SHA256: 1eeed5638f8492c29190e1c128d7f2c576640da80419b7f3c1f9d5c943696a00
 Section: Tweaks
 Description: 给您的控制中心图案带来色彩！（汉化：lans233）
 Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.aestearevived
+Depiction: 自定义插件控制中心的模块颜色（如big sur center）
 Icon: https://raw.githubusercontent.com/Luki120/AesteaRevived/main/Prefs/Resources/Assets/AesteaIcon.png
 Name: Aestea Revived控制中心美化
 Sileodepiction: https://luki120.github.io/depictions/native/me.luki.aestearevived/depiction.json
@@ -229,7 +229,7 @@ SHA256: 92377f4f35a97c03fd0c177c80bfe0f07db4281b7909f619b26327a243a708cb
 Section: Tweaks
 Description: 移动锁屏界面的日期，时钟和锁定图标（翻译：lans233）
 Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.arizona
+Depiction: 自定义移动锁屏界面的日期，时钟和锁定图标
 Icon: https://raw.githubusercontent.com/Luki120/SmallTweaks/main/SpringBoard/Arizona/ArizonaPrefs/Resources/Assets/ArizonaHotIcon.png
 Name: Arizona锁屏美化
 Sileodepiction: https://luki120.github.io/depictions/native/me.luki.arizona/depiction.json
@@ -248,7 +248,7 @@ SHA256: 5e7074fbca2218c6e3d8622a5b44b1312ca6f9136d2d604156a29136f645dca3
 Section: Tweaks
 Description: 即时为拨号界面、密码页或分享页设置背景图像（汉化：lans233）
 Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.marie
+Depiction: 即时为拨号界面、密码页或分享页设置背景图像
 Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Tweaks/SpringBoard/Marie/MarieIcon.png
 Name: Marie设置背景图像
 Sileodepiction: https://luki120.github.io/depictions/native/me.luki.marie/depiction.json
@@ -267,7 +267,7 @@ SHA256: 124d92fdcd94f26ec606a63f814c5e3559c90009bd8630eb622d846e13ed470c
 Section: Tweaks
 Description: 自定义控制中心背景的模糊程度，当模糊程度为零时会直接删掉背景，达到开着控制中心的时候还能操作别的地方的神奇操作（汉化：lans233）
 Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
+Depiction: 自定义控制中心背景的模糊程度，当模糊程度为零时会直接删掉背景，达到开着控制中心的时候还能操作别的地方的神奇操作（汉化：lans233）
 Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Misc/StealthCC.png
 Name: StealthCC自定义控制中心模块背景模糊
 Sileodepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
@@ -299,11 +299,11 @@ MD5sum: 2802f298b2948e119f9c2366333a7119
 SHA1: da38d653b62fd46b833192361dac5cbd38774cc6
 SHA256: c888808628173a8793bd3129ac214e1e8dbaadfe7e868f7a3a15cebac9e2833e
 Section: Utilities
-Description: Scripts to build rootful & rootless with Filza. Plus other handy Filza scripts. *Use regular Filza, NOT trollstore Filza*
+Description: 越狱版的filza代码高亮，可能无效，效果自测！
 Author: CyPwn
-Depiction: https://repo.cypwn.xyz/depiction/1364
+Depiction: 越狱版的filza代码高亮，可能无效，效果自测！
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/filzascripts.png
-Name: Filza Scripts
+Name: Filza Scripts filza代码高亮
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1364
 
 Package: xyz.skitty.lightsout233
@@ -320,7 +320,7 @@ SHA256: 0f677649f4eacf50c908d451c76de8bc66ba779cea4e2274a5d87ac5adf0419c
 Section: Tweaks
 Description: 使用光线传感器切换深色模式/夜间模式！（汉化：lans233）
 Author: Skitty
-Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.lightsout/
+Depiction: 使用光线传感器切换深色模式/夜间模式！（汉化：lans233）
 Icon: https://skitty.xyz/repo/icons/xyz.skitty.lightsout.png
 Name: LightsOut感应切换深浅色模式
 Sileodepiction: https://skitty.xyz/repo/depictions/xyz.skitty.lightsout/sileo.json
