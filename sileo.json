@@ -1,0 +1,12 @@
+```json
+{
+  "name": "lans233's repo",
+  "uri": "lans233.github.io",
+  "packages": "https://github.com/lans233/lans233.github.io/blob/main/Packages",
+  "icons": {
+    "32x32": "https://github.com/lans233/lans233.github.io/blob/main/icon.PNG",
+    "64x64": "https://github.com/lans233/lans233.github.io/blob/main/icon.PNG",
+    "128x128": "https://github.com/lans233/lans233.github.io/blob/main/icon.PNG"
+  }
+}
+```
