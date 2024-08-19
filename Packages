@@ -10,9 +10,9 @@ MD5sum:
 SHA1: 
 SHA256: 
 Section: Tweaks
-Description: 本源的初衷是为了让一些冷门的但是好用好玩的插件被更多人知道，QQ交流群157289939，欢迎进群一起讨论！完全无盈利，插件大多都是直接从作者源搬运过来的，汉化也是自己弄的
+Description: 本源的初衷是为了让一些冷门的但是好用好玩的插件被更多人知道，QQ交流群157289939，欢迎进群一起讨论！完全无盈利，插件大多都是直接从作者源搬运过来的，汉化也是自己汉化的，感谢支持！
 Author: lans233
-Name: 公告～务必看一看
+Name: 1个公告～务必看一看
 
 Package: com.0xkuj.3dappversionspoofer.lans233
 Version: 2.1.0
