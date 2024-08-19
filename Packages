@@ -10,7 +10,7 @@ MD5sum:
 SHA1: 
 SHA256: 
 Section: Tweaks
-Description: 来自威锋的朋友：命硬，你误会我了。我根本不会也不可能卖证书，我汉化分享插件纯粹是因为个人兴趣，就像我常说的：发这类帖子的初衷是为了让一些冷门但好玩的插件被更多人知道，所以我推荐的插件都是很少有源搬运也很少有人知道的，关注我，以后我会常发这类帖子，一起来探讨呀！对了！我的插件都在我的个人软件源里：lans233.github.io。我要是真的想要卖证书，我会费这么大的劲汉化插件，还写这么多的字分享插件？况且我现在才刚14周岁，吃喝都有父母供着，我拿钱要干嘛？
+Description: 初衷是为了让一些冷门但好玩的插件被更多人知道，所以我推荐的插件都是很少有源搬运也很少有人知道的，顺带一提！我建了一个 QQ 越狱交流群，群号 157289939，欢迎进群一起讨论！
 Author: lans233
 Name: 1个公告～务必看一看
 
@@ -281,24 +281,6 @@ Description: 增加音乐手势，向左滑动可跳过歌曲，向右滑动可�
 Author: uz.ra
 Icon: https://sugiuta.github.io/descriptions/jp.uzra.ggestune/Gestune.png
 Name: Gestune音乐手势
-
-Package: kr.xsf1re.vnodebypass.lans233
-Version: 0.4.2
-Architecture: iphoneos-arm64
-Maintainer: alias20
-Installed-Size: 532
-Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
-Filename: ./debs/vnodebypass屏蔽越狱检测.deb
-Size: 67320
-MD5sum: aeef046721156cbd4a8ff151432f39cd
-SHA1: 788f73d0b812d7ef63a2777e76ffc377ce11df4e
-SHA256: 5de6974599e17f3de8ee23336ef4f4f37cf64925179020ffb1a4f4d4df72a125
-Section: System
-Description: 屏蔽越狱检测，应该是有效果的！仅支持ios15和16，使用多巴胺2.0以上的系统
-Tag: role::hacker, compatible::ios15, compatible::ios16
-Author: XsF1re, ichitaso, level3tjg
-Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/Library/Themes/vnodebypass.theme/Icon.png
-Name: vnodebypass屏蔽越狱检测
 
 Package: lilliana.apphider.lans233
 Version: 0.0.2
