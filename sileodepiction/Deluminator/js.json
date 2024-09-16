@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "网页、地图深色模式，可自定义网址黑名单以及选择的应用等（汉化：lans233🇨🇳",
+                    "markdown": "网页、地图深色模式，可自定义网址黑名单以及选择的应用等（汉化：lans233🇨🇳）",
                     "useRawFormat": true
                 },
                 {
