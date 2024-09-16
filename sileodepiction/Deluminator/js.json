@@ -1,0 +1,73 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://lans233.github.io/images/Deluminator.png",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "网页、地图深色模式，可自定义网址黑名单以及选择的应用等（汉化：lans233🇨🇳",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://lans233.github.io/sileodepiction/Deluminator/Screenshot_01"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://lans233.github.io/sileodepiction/Deluminator/Screenshot_02"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://lans233.github.io/sileodepiction/Deluminator/Screenshot_03"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "15.0 - 17.0",
+                    "title": "支持系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2024年9月16日",
+                    "title": "更新日期"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        }
+    ]
+}
