@@ -1,0 +1,73 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://lans233.github.io/images/lans233.jpeg",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "超级省电插件，功能包括但不限于1.禁止后台网络加载2.禁止后台刷新3.伪装省电模式4.有效的开启省电模式时不自动锁屏（汉化：lans233🇨🇳）",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://lans233.github.io/sileodepiction/Gasolina/Screenshot_01.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://lans233.github.io/sileodepiction/Gasolina/Screenshot_02.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://lans233.github.io/sileodepiction/Gasolina/Screenshot_03.jpg"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "15.0 - 17.0",
+                    "title": "支持系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2024年9月16日",
+                    "title": "更新日期"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        }
+    ]
+}
