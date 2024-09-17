@@ -216,11 +216,11 @@ MD5sum: a772091f33a78f0bbdb0bd5203e0a463
 SHA1: a7bd3d6080a2e15dd0d3778696805f13f50b5980
 SHA256: fd8d700b4f724d5aa10569f6a506efcec89e612baa2659e59109292809308327
 Section: Tweaks
-Description: 超级省电插件，功能包括但不限于1.禁止后台网络加载2.禁止后台刷新3.伪装省电模式4.有效的开启省电模式时不自动锁屏（汉化：lans233🇨🇳）
+Description: 超级省电插件，功能包括但不限于1.禁止后台网络加载2.禁止后台刷新3.伪装省电模式4.有效的开启省电模式时不自动锁屏等（汉化：lans233🇨🇳）
 Author: Rango
 Depiction: https://lans233.github.io/sileodepiction/Gasolina/js.json
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/gasolina.png
-Name: Gasolina
+Name: Gasolina超级省电插件
 Sileodepiction: https://lans233.github.io/sileodepiction/Gasolina/js.json
 
 Package: com.sgwc.events.lans233
