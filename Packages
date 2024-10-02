@@ -149,7 +149,7 @@ MD5sum: a97ce54378ab6d0fb180e38895cdc3e2
 SHA1: 5d571d167b02e57ef099dac75d1da026da411473
 SHA256: 876901778262a8395e09bb475f90ff0a66eba7047470173e86b33a680a99811d
 Section: Tweaks
-Description: 由Huayuarc制作，解锁video saver内购破解，可下载无限大小和数量的视频，video saver是网页视频保存器，目前已在app store下架，非常好用的一款软件，因为下架了，所以为了方便大家，我把这个软件的ipa放进了包里，装完本插件之后，使用filza进入/var/mobile/Documents即可找到此软件的ipa（本来想直接把软件放进Applications的，奈何一直闪退，以后再研究）
+Description: 由Huayuarc制作，解锁video saver内购破解，可下载无限大小和数量的视频，video saver是网页视频保存器，目前已在app store下架，非常好用的一款软件，因为下架了，所以为了方便大家下载，我把ipa放进了网盘里，链接https://www.123865.com/s/5KhAjv-6OYwA（本来想直接把软件放进Applications的，奈何一直闪退，以后再研究）
 Author: Huayuarc
 Name: Video Saver网页视频保存器破解
 
