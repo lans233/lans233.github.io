@@ -495,22 +495,6 @@ Dev: nowesr1
 Icon: file:///var/jb/Library/PreferenceBundles/PhotosPlusPrefs.bundle/icon@2x.png
 Name: PhotosPlus照片增强
 
-Package: xyz.cypwn.filzascriptdev.lans233
-Version: 2.1
-Architecture: all
-Maintainer: CyPwn
-Depends: dpkg, ldid, file, odcctools, plutil
-Filename: ./debs/Filza Scripts filza代码高亮.deb
-Size: 5576
-MD5sum: 19e8016f3acc293dcf62a2b27fb7d4e7
-SHA1: 37ee1c3107433a8c846d9d12ab47ae6120f9efda
-SHA256: c75462b058701972242d8274946875b3b1461fdbe8fd6105010a23ca3e7d2685
-Section: Utilities
-Description: filza代码高亮，只能用于越狱下载的filza，有没有效自测，无效请卸载！
-Author: CyPwn
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/filzascripts.png
-Name: Filza Scripts filza代码高亮
-
 Package: xyz.skitty.lightsout.lans233
 Version: 1.2
 Architecture: iphoneos-arm64
