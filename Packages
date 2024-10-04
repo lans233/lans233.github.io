@@ -1,3 +1,11 @@
+Package: 
+Version: 
+Maintainer: lans233
+Section: 公告
+Description: QQ玩机交流群157289939，欢迎各大新手小白，大佬老手加入
+Author: lans233
+Name: 1个公告-务必看一看
+
 Package: com.0xkuj.3dappversionspoofer.lans233
 Version: 2.1.0
 Architecture: iphoneos-arm64
