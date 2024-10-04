@@ -1,7 +1,9 @@
 Package: 
-Version: 
+Version: 9.9.9
+Architecture: iphoneos-arm64
 Maintainer: lans233
 Section: 公告
+Filename: 
 Description: QQ玩机交流群157289939，欢迎各大新手小白，大佬老手加入
 Author: lans233
 Name: 1个公告-务必看一看
