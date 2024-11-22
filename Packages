@@ -324,7 +324,7 @@ MD5sum: a772091f33a78f0bbdb0bd5203e0a463
 SHA1: a7bd3d6080a2e15dd0d3778696805f13f50b5980
 SHA256: fd8d700b4f724d5aa10569f6a506efcec89e612baa2659e59109292809308327
 Section: Tweaks
-Description: 超级省电插件，功能包括但不限于1.禁止后台网络加载2.禁止后台刷新3.伪装省电模式4.有效的开启省电模式时不自动锁屏（汉化：lans233🇨🇳）
+Description: 超级省电插件，功能包括1.禁止后台网络加载2.禁止后台刷新3.伪装省电模式4.有效的开启省电模式时不自动锁屏（汉化：lans233🇨🇳）
 Author: Rango
 Depiction: https://lans233.github.io/sileodepiction/Gasolina/js.json
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/gasolina.png
@@ -378,7 +378,7 @@ MD5sum: 53fd3a57bd0874d46cf0433adcd535bc
 SHA1: 77db1bef021294b90f3dfb228c224f6bcec35ce0
 SHA256: 58c6481c4e4ad672223eceb19219172b2a66ef9cb570e822071fb43483c83b03
 Section: Tweaks
-Description: 超高自定义，非常美观的音量UHD，支持ios15以上的系统，非常好看，特别推荐！（汉化：lans233）
+Description: 超高自定义，非常美观的音量UHD，支持ios15以上的系统，非常好看，特别推荐！（汉化：lans233）注意：若出现黑屏，请安装xinamine后重试，若可以正常使用则不用
 Author: ubik
 Icon: https://repo.cypwn.xyz/packages/Sonus15-Rootless/icon.png
 Name: Sonus15漂亮音量UHD
@@ -440,7 +440,7 @@ MD5sum: e0baaa3bef466115a0d678dd5730adf1
 SHA1: aae305676171ca80483ab1c3206232c18b43a47c
 SHA256: 785b02287d793f51dbc04a256017ade929f6df4d6b576d829ffcaa641d3fb292
 Section: Tweaks
-Description: 炫酷的日月开关，特别丝滑炫酷，强烈推荐！（汉化：lans233🇨🇳）
+Description: 炫酷的日月开关，特别丝滑炫酷，强烈推荐！（汉化：lans233🇨🇳）注意：由于我经验不足，源内此插件有不能解决的无法安装的问题，请直接在https://github.com/lans233/lans233.github.io/tree/main/debs里面找到此插件进行下载安装
 Author: Finn Gaida
 Name: DayNightSwitch炫酷日月开关
 
