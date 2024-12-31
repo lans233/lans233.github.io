@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "安卓风格的锁屏，效果如图，此插件系有根插件，修复支持rootless，添加中文支持（汉化：lans233🇨🇳）",
+                    "markdown": "安卓风格的锁屏，效果如图，此插件系有根插件，修复支持rootless，添加中文支持（汉化：lans233🇨🇳）注意：锁屏有通知时是另一种风格，无通知时才会显示如图的风格",
                     "useRawFormat": true
                 },
                 {
